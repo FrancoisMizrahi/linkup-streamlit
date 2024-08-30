@@ -1,5 +1,5 @@
 import streamlit as st
 
 
-st.header('Linkup bot catcher')
+st.header('Linkup')
 st.text("Dum Spiro, Spero")
